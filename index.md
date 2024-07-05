@@ -4,29 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am Yongbin Feng (冯永彬 in Chinese), a postdoctoral research associate at Fermi National Accelerator Laboratory studying experimental particle physics (HEP-ex). More information can be found in my CV [<a href="files/cv/cv_feng.pdf">here</a>].
-
-**I will be joining the physics department of Texas Tech University in August 2024 as an assistant professor**. For potential graduate students and postdocs interested in any of the topics of CMS data analyses, machine learning assisting reconstruction, heterogeneous computing with or without machine learning, and search for dark sector and dark matter at small fixed-target experiments, please **feel free to contact me**! 
-
-## Work Experience
-- **Assistant Professor of Physics** at <em>Texas Tech University</em>
-<br>
-Lubbock, Texas, USA, Aug. 2024 - present
-- **Postdoctoral Research Associate** at <em>Fermi National Accelerator Laboratory</em>
-<br> 
-Batavia, Illinois, USA, Nov. 2020 - Jul. 2024
+I am Yubo Du, a Ph.D. graduate student researcher at University of Pittsburgh. I joined Dr. Jun Yang's lab since Jan 2023. My interests lie in defending the programs against memory safety-related bugs/exploitations such as Use-AFter-Free detection and Out-of-Bounds detection.  
 
 ## Education
 
-- <em>Physics Ph.D.</em>: **University of Maryland, College Park**, Maryland, USA, Aug. 2015 - Oct. 2020
-- <em>Physics B.S.</em>: **University of Science and Technology of China**, Hefei, Anhui, China, Aug. 2011 - Jun. 2015
+- <em>Electrical and Computer Engineering Ph.D.</em>: **University of Pittsburgh**, Pittsburgh, PA, USA, Jan. 2022 - Present
+- <em>Computer Science M.S.</em>: **Vanderbilt University**, Nashville, TN, USA, Jan. 2020 - Dec. 2021
+- <em>Physics B.S.</em>: **University of Science and Technology of China**, Hefei, Anhui, China, Aug. 2014 - Jun. 2018
+
+## Work Experience
+- **Research Assistant** at <em>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</em>
+<br> 
+Shenzhen, P.R.China, Sep. 2018 - Apr. 2019
 
 ## Research Interests
 
-- **High Precision Electroweak Measurements:** W and Z cross sections, differential cross sections, etc [<a href="https://cds.cern.ch/record/2868090">Pub</a>]
-- **SONIC:** Services of Network Inferences on Coprocessors for CMS and other experiments [<a href="https://arxiv.org/abs/2402.15366">Pub</a>]
-- **Machine Learning Application in HEP:** pileup mitigation, missing transverse momentum regression, calorimeter clustering and energy regression, etc [<a href="https://arxiv.org/abs/2203.15823">Pub</a>]
-- **DarkQuest:** proton fixed-target experiment to search for dark sector and light dark matter [<a href="https://arxiv.org/abs/2203.08322">Pub</a>]
+- **Memory Safety:** Defending C/C++ Programs against memory safety-related bugs/exploitations.
+- **Performance Optimization:** Optimizing the performance of software-based memory safety sanitizers.
 
 ## News
 
@@ -34,24 +28,12 @@ To be updated
 
 ## Publications
 
-To be updated
+Du, Yubo, et al. "RTT-UAF: Reuse Time Tracking for Use-After-Free Detection." Proceedings of the 38th ACM International Conference on Supercomputing. 2024.
+
+Zhuang, Jinming, et al. "CHARM: C omposing H eterogeneous A ccele R ators for M atrix Multiply on Versal ACAP Architecture." Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays. 2023.
+
+Du, Yubo. Progressively Stacking Differentiable Architecture Search (PS-DARTs) for Recurrent Neural Networks (RNNs). MS thesis. Vanderbilt University, 2021.
 
 ## Talks & Seminars
-- <em>Introduction to Graph Neural Networks in High Energy Physics</em>
-  <br>
-  Discussion led at the **Fermilab Lab-wide AI Meeting**, Batavia, 11/2022 [<a href="files/slides/intro_to_gnn.pdf">Slides</a>].
-- <em>DarkQuest: Probing dark sector with a proton fixed-target experiment at Fermilab</em>
-  <br>
-  Talk presented at the **SYSU-PKU Particle Physics Forum**, Virtual, 05/2022 [<a href="files/slides/DQ_PKU_May22.pdf">Slides</a>].
-- <em>Semi-supervised graph neural network for pileup noise removal</em>
-  <br>
-  Talk presented at the **University of Washington Machine Learning Forum**, Virtual, 05/2022 [<a href="files/slides/SSLPUPPI_UWEPE_May3.pdf">Slides</a>].
-- <em>DarkQuest - Searching for light dark matter with a proton fixed-target experiment at Fermilab</em>
-  <br>
-  Talk presented at the **2022 Phenomenology Symposium**, Pittsburg, Pennsylvania, USA, 05/2022 [<a href="files/slides/DQ_Pheno_May9th_v0.pdf">Slides</a>].
-- <em>Semi-supervised meachine learning for pileup per particle identification with graph neural networks</em>
-  <br>
-  Talk presented at the **2021 BOOST workshop**, Virtual, 08/2021 [<a href="files/slides/GNNPUPPI_BOOST.pdf">Slides</a>].
-- <em>Searching for light dark matter at Fermilab's proton fixed-target experiment: DarkQuest</em>
-  <br>
-  Talk presented at the **2021 Particle Physics and Cosmology workshop**, Virtual, 05/2021 [<a href="files/slides/DQ_PPC_0520_v1.pdf">Slides</a>].
+
+To be updated
