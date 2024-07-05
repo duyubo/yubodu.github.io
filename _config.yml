@@ -1,12 +1,12 @@
-title: Yongbin Feng
-position: Postdoctoral Research Associate
-affiliation: Fermilab
-email: yongbin.feng (at) cern.ch
+title: Yubo Du
+position: Ph.D. Student
+affiliation: University of Pittsburgh
+email: yubo.du (at) pitt.edu
 keywords: minimal academic
-github_link: https://github.com/yongbinfeng
-avatar: ./assets/img/yongbin_feng.png
+github_link: https://github.com/duyubo
+avatar: ./assets/img/yubo_du.png
 favicon: ./assets/img/w_decay.jpg
 favicon_dark: ./assets/img/w_decay.jpg
-description: Yongbin Feng's homepage
-canonical: https://yongbinfeng.github.io
+description: Yubo Du's homepage
+canonical: https://yubodu.github.io
 remote_theme: yaoyao-liu/minimal-light
