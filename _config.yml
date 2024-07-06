@@ -5,8 +5,8 @@ email: yubo.du (at) pitt.edu
 keywords: minimal academic
 github_link: https://github.com/duyubo
 avatar: ./assets/img/yubodu.jpg
-favicon: ./assets/img/w_decay.jpg
-favicon_dark: ./assets/img/w_decay.jpg
+favicon: ./assets/img/yubodu.jpg
+favicon_dark: ./assets/img/yubodu.jpg
 description: Yubo Du's homepage
 canonical: https://yubodu.github.io
 remote_theme: yaoyao-liu/minimal-light
