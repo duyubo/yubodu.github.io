@@ -10,5 +10,5 @@ avatar: ./assets/img/yubodu.jpg
 favicon: ./assets/img/yubodu.jpg
 favicon_dark: ./assets/img/yubodu.jpg
 description: Yubo Du's homepage
-canonical: duyubo.github.io/yubodu.github.io
+canonical: https://duyubo.github.io/yubodu.github.io/
 remote_theme: yaoyao-liu/minimal-light
